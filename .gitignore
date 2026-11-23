@@ -1,0 +1,32 @@
+# MATLAB / Simulink
+*.asv
+*.m~
+*.mex*
+*.autosave
+*.slxc
+slprj/
+codegen/
+
+# Arduino / ESP32 / PlatformIO
+build/
+.pio/
+*.bin
+*.elf
+*.hex
+*.o
+*.d
+*.map
+*.eep
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
